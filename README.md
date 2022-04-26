@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=#345a98&height=500&section=header&text=gkdidms&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=500&section=header&text=gkdidms&fontSize=90)
