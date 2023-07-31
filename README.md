@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeEun%20Ha&fontSize=90&&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=YeEun%20Ha&fontSize=90&&animation=twinkling" />
 <br/>
   
 ### :green_apple:Introduce
