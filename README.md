@@ -13,11 +13,12 @@
 ### :8ball:BackJoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdidms)](https://solved.ac/gkdidms)
-
-
+<br/><br/>
+### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdidms&layout=compact)](https://github.com/gkdidms/github-readme-stats)
 <br/><br/>
 
-### :gem:Language
+### :gem:Git
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdidms&show_icons=true&theme=synthwave)
 
 <br/><br/>
