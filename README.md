@@ -15,7 +15,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdidms)](https://solved.ac/gkdidms)
 <br/><br/>
 ### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdidms&layout=compact)](https://github.com/gkdidms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdidms)](https://github.com/gkdidms/github-readme-stats)
 <br/><br/>
 
 ### :gem:Git
