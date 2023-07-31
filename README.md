@@ -1,16 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Ha%20Yeeun&fontSize=90)
 
-<!--
-**gkdidms/gkdidms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Tech Stack
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##BackJoon
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdidms)](https://solved.ac/gkdidms)
+
+
+##Language
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdidms&show_icons=true&theme=synthwave)
