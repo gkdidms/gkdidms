@@ -9,14 +9,14 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdidms)](https://github.com/gkdidms/github-readme-stats)
 
 <br/><br/>
 ### :8ball:BackJoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdidms)](https://solved.ac/gkdidms)
-<br/><br/>
-### :pushpin:Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdidms)](https://github.com/gkdidms/github-readme-stats)
 <br/><br/>
 
 ### :gem:Git
