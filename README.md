@@ -7,11 +7,22 @@
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 
 
+
+
+
 ### BackJoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdidms)](https://solved.ac/gkdidms)
 
 
+
+
+
 ### Language
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdidms&show_icons=true&theme=synthwave)
+
+
+
+
+
 </div>
