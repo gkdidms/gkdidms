@@ -1,6 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=yeeun&fontSize=90" />
 <br/>
+  
 ### :green_apple:Introduce
 안드로이드 관련 외주를 진행했으며 PM 경험이 있습니다.<br/>현재는 게임 개발을 공부하고 있습니다.
 <br/><br/>
