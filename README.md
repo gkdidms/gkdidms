@@ -3,7 +3,7 @@
 <br/>
   
 ### :green_apple:Introduce
-안드로이드 관련 외주를 진행했으며 PM 경험이 있습니다.<br/>현재는 게임 개발을 공부하고 있습니다.
+Game Client Programmer
 <br/><br/>
 ### :hearts:Tech Stack
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
